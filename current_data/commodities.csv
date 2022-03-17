@@ -1,0 +1,24 @@
+cmdCode,cmdDesc,redDesc
+1,Animal;live,livestocks
+2,Meat and edible meat offal,meats
+3,"Fish and crustaceans, molluscs an other aquatic invertebrates",fish&shellfish
+4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",dairy
+5,Animal originated products; not elsewhere specified or included,animals_derived
+6,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",trees&plants
+7,Vegetables and certain roots and tubers; edible,vegetables
+8,"Fruit and nuts, edible; peel of citrus fruit or melons",fruits&nuts
+9,"Coffee, tea, mate and spices",coffee&tea
+10,Cereals,cereals
+11,"Products of the milling industries; malt, starches, inulin, wheat gluten",wheats
+12,"Oil seeds and oleaginous fruits; miscelaneus grains, seed and fruit, industrial or medicinal plants; straw and fodder",oilcrops
+13,"Lac; gums, resins and other vegetable saps and extracts",gums&resins
+14,Vegetable plaiting materilas; vegetable products not elsewhere specified or included,vegetable_materials
+15,Animal or vegetable fats and oils and their cleavage products; prepared animals fats; animal or vegetable waxes,oils&fats
+16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",meat&fish_derived
+17,Sugars and sugar confectionery,sugars
+18,Cocoa and cocoa preparations,cocoa
+19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",wheats
+20,"Preparations of vegetables, fruit, nuts or other part of plants",baked_goods
+21,Miscellaneus edible preparations,food_preparations
+22,"Beverages, spirits and vinegar",beverages
+23,"Food industries, residues and waste thereof; prepared animal fodder",foodwaste_industries
