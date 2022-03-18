@@ -2,7 +2,7 @@
 ***
 
 <p align="center">
-    <img src="./pic.png" alt="Drawing" style="width: 500px"/>
+    <img src="https://github.com/eigen-carmona/net-sci-project/blob/master/images/pic.png" alt="Drawing" style="width: 500px"/>
 </p>
 
 
@@ -33,6 +33,8 @@ At first we perform a full characterisation of the network by the means of the g
 
 
 ***
+<div align="center">
+
 ||||
 |:--:|:--:|:--:|
 | <p float="center"><img src="https://github.com/eigen-carmona/net-sci-project/blob/master/images/data-mining.png" width=200 /> </p> | $~~~~~~~~~~~~~~~~~$| <p float="center"><img src="https://github.com/eigen-carmona/net-sci-project/blob/master/images/2015_hubs_final.png" width=200 /> </p> |
@@ -40,5 +42,7 @@ At first we perform a full characterisation of the network by the means of the g
 
 ||||||
 |:--:|:--:|:--:|:--:|:--:|
-| <p float="center"><img src="https://github.com/eigen-carmona/net-sci-project/blob/master/images/communities_3.gif" width=300 /> </p> | $~~~~~~~~~~~~~~$ | <p align="center"><img src="https://github.com/eigen-carmona/net-sci-project/blob/master/images/slices.png" width=300 /> </p> |  $~~~~~~~~~~~~~~$ | <p float="center"><img src="https://github.com/eigen-carmona/net-sci-project/blob/master/images/LSCC_mono.jpeg" width=300 /> </p> |
+| <p float="center"><img src="https://github.com/eigen-carmona/net-sci-project/blob/master/images/communities_3.gif" width=300 /> </p> | <pre>    </pre> | <p align="center"><img src="https://github.com/eigen-carmona/net-sci-project/blob/master/images/slices.png" width=300 /> </p> |  <pre>    </pre> | <p float="center"><img src="https://github.com/eigen-carmona/net-sci-project/blob/master/images/LSCC_mono.jpeg" width=300 /> </p> |
 | [**Single-Layer Community Detection**](https://github.com/eigen-carmona/net-sci-project/blob/master/community_detection)|| [**Multi-Layer Community Detection**](https://github.com/eigen-carmona/net-sci-project/blob/master/community_detection) || [**Robustness Analysis**](https://github.com/eigen-carmona/net-sci-project/blob/master/robustness_richclub) |
+
+<div />
