@@ -1,4 +1,5 @@
 # Characterisation and analysis of the international agro-food trade network
+***
 
 <p align="center">
     <img src="./pic.png" alt="Drawing" style="width: 500px"/>
@@ -11,7 +12,7 @@
 ## Authors
 
 * [**Arganaraz Juan Carlos**]() (University of Padua)
-* [**Capettini Hilario**](https://github.com/hcapettini2) (University of Bologna)
+* [**Capettini Hilario**](https://github.com/hcapettini2) (University of Padua)
 * [**Carmona Gerardo**](https://github.com/eigen-carmona) (University of Padua)
 * [**Rinaldi Luca**](https://github.com/RinaldiLuca) (University of Padua)
 
@@ -26,5 +27,18 @@ At first we perform a full characterisation of the network by the means of the g
 
 * The complete report of this project can be found [**here**](https://github.com/eigen-carmona/net-sci-project/blob/master/Report.pdf)
 
-*
-The presentation of this project can be found [**here**](https://github.com/eigen-carmona/net-sci-project/blob/master/Slides.pdf)
+* The presentation of this project can be found [**here**](https://github.com/eigen-carmona/net-sci-project/blob/master/Slides.pdf)
+
+## Implementations
+
+
+***
+||||
+|:--:|:--:|:--:|
+| <p float="center"><img src="https://github.com/eigen-carmona/net-sci-project/blob/master/images/data-mining.png" width=200 /> </p> | $~~~~~~~~~~~~~~~~~$| <p float="center"><img src="https://github.com/eigen-carmona/net-sci-project/blob/master/images/2015_hubs_final.png" width=200 /> </p> |
+| [**Data mining & Processing**](https://github.com/eigen-carmona/net-sci-project/blob/master/data_mining_preprocessing)|| [**Centrality & other Metrics**](https://github.com/eigen-carmona/net-sci-project/blob/master/proprieties_metrics) |
+
+||||||
+|:--:|:--:|:--:|:--:|:--:|
+| <p float="center"><img src="https://github.com/eigen-carmona/net-sci-project/blob/master/images/communities_3.gif" width=300 /> </p> | $~~~~~~~~~~~~~~$ | <p align="center"><img src="https://github.com/eigen-carmona/net-sci-project/blob/master/images/slices.png" width=300 /> </p> |  $~~~~~~~~~~~~~~$ | <p float="center"><img src="https://github.com/eigen-carmona/net-sci-project/blob/master/images/LSCC_mono.jpeg" width=300 /> </p> |
+| [**Single-Layer Community Detection**](https://github.com/eigen-carmona/net-sci-project/blob/master/community_detection)|| [**Multi-Layer Community Detection**](https://github.com/eigen-carmona/net-sci-project/blob/master/community_detection) || [**Robustness Analysis**](https://github.com/eigen-carmona/net-sci-project/blob/master/robustness_richclub) |
