@@ -11,7 +11,7 @@
 
 ## Authors
 
-* [**Arganaraz Juan Carlos**]() (University of Padua)
+* [**Arganaraz Juan Carlos**](https://github.com/Jargaz) (University of Padua)
 * [**Capettini Hilario**](https://github.com/hcapettini2) (University of Padua)
 * [**Carmona Gerardo**](https://github.com/eigen-carmona) (University of Padua)
 * [**Rinaldi Luca**](https://github.com/RinaldiLuca) (University of Padua)
@@ -42,7 +42,7 @@ At first we perform a full characterisation of the network by the means of the g
 
 ||||
 |:--:|:--:|:--:|
-| <p float="center"><img src="https://github.com/eigen-carmona/net-sci-project/blob/master/images/communities_3.gif" width=300 /> </p> | <p align="center"><img src="https://github.com/eigen-carmona/net-sci-project/blob/master/images/slices.png" width=300 /> </p> | <p float="center"><img src="https://github.com/eigen-carmona/net-sci-project/blob/master/images/LSCC_mono.jpeg" width=300 /> </p> |
+| <p float="center"><img src="https://github.com/eigen-carmona/net-sci-project/blob/master/images/communities_3.gif" width=200 /> </p> | <p align="center"><img src="https://github.com/eigen-carmona/net-sci-project/blob/master/images/slices.png" width=200 /> </p> | <p float="center"><img src="https://github.com/eigen-carmona/net-sci-project/blob/master/images/LSCC_mono.jpeg" width=200 /> </p> |
 | [**Single-Layer Community Detection**](https://github.com/eigen-carmona/net-sci-project/blob/master/code/community_detection/single_layer)| [**Multi-Layer Community Detection**](https://github.com/eigen-carmona/net-sci-project/blob/master/code/community_detection/multi_layer) | [**Robustness Analysis**](https://github.com/eigen-carmona/net-sci-project/blob/master/code/robustness_richclub) |
 
 <div />
