@@ -38,11 +38,11 @@ At first we perform a full characterisation of the network by the means of the g
 |||
 |:--:|:--:|
 | <p float="center"><img src="https://github.com/eigen-carmona/net-sci-project/blob/master/images/data-mining.png" width=200 /> </p> | <p float="center"><img src="https://github.com/eigen-carmona/net-sci-project/blob/master/images/2015_hubs_final.png" width=200 /> </p> |
-| [**Data mining & Processing**](https://github.com/eigen-carmona/net-sci-project/blob/master/code/data_mining_preprocessing)| [**Centrality & other Metrics**](https://github.com/eigen-carmona/net-sci-project/blob/master/code/proprieties_metrics) |
+| [**Data mining & Processing**](https://github.com/eigen-carmona/net-sci-project/tree/master/code/data_mining_preprocessing)| [**Centrality & other Metrics**](https://github.com/eigen-carmona/net-sci-project/tree/master/code/properties_metrics) |
 
 ||||
 |:--:|:--:|:--:|
 | <p float="center"><img src="https://github.com/eigen-carmona/net-sci-project/blob/master/images/communities_3.gif" width=200 /> </p> | <p align="center"><img src="https://github.com/eigen-carmona/net-sci-project/blob/master/images/slices.png" width=200 /> </p> | <p float="center"><img src="https://github.com/eigen-carmona/net-sci-project/blob/master/images/LSCC_mono.jpeg" width=200 /> </p> |
-| [**Single-Layer Community Detection**](https://github.com/eigen-carmona/net-sci-project/blob/master/code/community_detection/single_layer)| [**Multi-Layer Community Detection**](https://github.com/eigen-carmona/net-sci-project/blob/master/code/community_detection/multi_layer) | [**Robustness Analysis**](https://github.com/eigen-carmona/net-sci-project/blob/master/code/robustness_richclub) |
+| [**Single-Layer Community Detection**](https://github.com/eigen-carmona/net-sci-project/tree/master/code/community_detection/single_layer)| [**Multi-Layer Community Detection**](https://github.com/eigen-carmona/net-sci-project/tree/master/code/community_detection/multi_layer) | [**Robustness Analysis**](https://github.com/eigen-carmona/net-sci-project/tree/master/code/robustness_richclub) |
 
 <div />
